@@ -64,7 +64,7 @@ $ php artisan serve
 
 ## Built With
 
-[Laravel](https://laravel.com/) - The PHP framework for building web apps
+[Laravel](https://laravel.com/) - The PHP framework for Web Artisan
 
 ## Acknowledgments
 
